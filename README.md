@@ -1,7 +1,7 @@
 # terraform-aws-vault-eks
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/sculley/terraform-aws-vault-eks/main/vault-diagram.png">
+  <img src="https://raw.githubusercontent.com/sculley/terraform-aws-vault-eks/main/vault-diagram.png">
 </p>
 
 Terraform module to deploy Vault using Helm to an AWS EKS cluster.
